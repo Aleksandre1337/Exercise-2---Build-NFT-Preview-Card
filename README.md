@@ -4,8 +4,8 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### Links
 
-- Solution URL: [Click here](not available yet)
-- Live Site URL: [Click here](not available yet)
+- Solution URL: [Click here](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
+- Live Site URL: [Click here](https://comforting-zabaione-4f752a.netlify.app/)
 
 ### Created with
 
